@@ -1,0 +1,159 @@
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://cdn.nexpid.xyz/discord/assets/b9811218b3a54ad59fb2.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://cdn.nexpid.xyz/discord/assets/15551c6c9d4d1a96ba76.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://cdn.nexpid.xyz/discord/assets/f84e3e81b8d0718cd917.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 500;
+  src: url("https://cdn.nexpid.xyz/discord/assets/099b34f1948afe9d15e4.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://cdn.nexpid.xyz/discord/assets/20ac37ed2576dd48d7dc.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 600;
+  src: url("https://cdn.nexpid.xyz/discord/assets/36a7c3603a9c96bce18d.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://cdn.nexpid.xyz/discord/assets/3f46bbecb4287c0a829f.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("https://cdn.nexpid.xyz/discord/assets/6191b2ecd48873bed773.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("https://cdn.nexpid.xyz/discord/assets/f65e087dae83a0fdc637.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 800;
+  src: url("https://cdn.nexpid.xyz/discord/assets/d5c9d3b86fab5ccc8ef2.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://cdn.nexpid.xyz/discord/assets/25f1e66664a140ac84c9.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://cdn.nexpid.xyz/discord/assets/9f0adc4ecabddcd298dc.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://cdn.nexpid.xyz/discord/assets/e0ece3c23b33d18f4d00.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 500;
+  src: url("https://cdn.nexpid.xyz/discord/assets/818e8d4d506064aa57a3.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://cdn.nexpid.xyz/discord/assets/9a02726c2f8410020238.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 600;
+  src: url("https://cdn.nexpid.xyz/discord/assets/08b2e52c725dc0d1a24a.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://cdn.nexpid.xyz/discord/assets/ee6b51adb64f6365352c.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("https://cdn.nexpid.xyz/discord/assets/4167dc814806444a69a5.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("https://cdn.nexpid.xyz/discord/assets/2850dd7b145576e8d7c7.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 800;
+  src: url("https://cdn.nexpid.xyz/discord/assets/8318c9f278405382203e.woff2")
+    format("woff2");
+}

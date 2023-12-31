@@ -1,0 +1,35 @@
+.container {
+  box-sizing: border-box;
+}
+
+.warning {
+  @apply bg-info-warning-background-light dark:bg-info-warning-background-dark border-info-warning-foreground-light dark:border-info-warning-foreground-dark;
+}
+.warning .iconDiv {
+  @apply text-info-warning-foreground-light dark:text-info-warning-foreground-dark;
+}
+
+.help {
+  @apply bg-info-help-background-light dark:bg-info-help-background-dark border-info-help-foreground-light dark:border-info-help-foreground-dark;
+}
+.help .iconDiv {
+  @apply text-info-help-foreground-light dark:text-info-help-foreground-dark;
+}
+
+.danger {
+  @apply bg-info-danger-background-light dark:bg-info-danger-background-dark border-info-danger-foreground-light dark:border-info-danger-foreground-dark;
+}
+.danger .iconDiv {
+  @apply text-info-danger-foreground-light dark:text-info-danger-foreground-dark;
+}
+
+.positive {
+  @apply bg-info-positive-background-light dark:bg-info-positive-background-dark border-info-positive-foreground-light dark:border-info-positive-foreground-dark;
+}
+.danger .iconDiv {
+  @apply text-info-positive-foreground-light dark:text-info-positive-foreground-dark;
+}
+
+.iconDiv {
+  display: flex;
+}

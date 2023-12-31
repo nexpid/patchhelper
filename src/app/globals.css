@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+  @apply outline-none;
+}
+code {
+  @apply font-code text-[14px] leading-[16px];
+}
+
+@layer components {
+  .font-text-xs-normal {
+    @apply text-[12px] font-[400] leading-[16px] font-primary text-text-normal-light dark:text-text-normal-dark;
+  }
+
+  .font-text-xs-semibold {
+    @apply text-[12px] font-[600] leading-[16px] font-primary text-text-normal-light dark:text-text-normal-dark;
+  }
+
+  .font-text-sm-medium {
+    @apply text-[14px] font-[500] leading-[18px] font-primary text-text-normal-light dark:text-text-normal-dark;
+  }
+
+  .font-heading-lg-semibold {
+    @apply text-[20px] font-[600] leading-[24px] font-display text-text-normal-light dark:text-text-normal-dark;
+  }
+
+  .font-eyebrow {
+    @apply text-[0.75rem] font-[700] leading-[1rem] uppercase tracking-[0.02em] font-display text-header-secondary-light dark:text-header-secondary-dark;
+  }
+
+  .font-size14 {
+    @apply text-[14px] leading-[18px] text-text-normal-light dark:text-text-normal-dark font-display;
+  }
+
+  .divider {
+    @apply w-full h-[1px] border-solid border-t border-t-background-modifier-accent-light dark:border-t-background-modifier-accent-dark;
+  }
+
+  .outline-disabled {
+    outline: 0;
+  }
+
+  .hover-fade {
+    transition-property: opacity;
+    transition-duration: 0.35s;
+    opacity: 0;
+  }
+  pre:hover .hover-fade {
+    opacity: 1;
+  }
+}

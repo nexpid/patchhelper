@@ -1,0 +1,22 @@
+.fader {
+  transition-duration: 0.25s;
+  transition-property: background-color;
+  background-color: #0001;
+}
+
+.fader:hover {
+  background-color: #0002;
+}
+
+@media (prefers-color-scheme: dark) {
+  .fader {
+    background-color: #fff1;
+  }
+  .fader:hover {
+    background-color: #fff2;
+  }
+}
+
+.selector {
+  transform: translateY(calc(50% + 14px));
+}
